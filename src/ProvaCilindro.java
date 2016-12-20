@@ -11,7 +11,7 @@
 //
 import java.util.Scanner;
 
-// versione 3
+// versione 4
 
 public class ProvaCilindro 
 {
